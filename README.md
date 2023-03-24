@@ -26,8 +26,6 @@ location: an array with the latitude and longitude of the truck's current locati
 last_updated: the time when the truck's location was last updated (string in ISO 8601 format)
 Here is an example of a data.json file with two truck data objects:
 
-json
-Copy code
 {
   "trucks": [
     {
