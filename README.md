@@ -50,4 +50,4 @@ Allow users to click on a truck marker to see more information, such as the driv
 Improve error handling for cases where a truck is missing or the server is unavailable
 
 ## Credits
-This web app was created by [Your Name Here] for a logistics shipping company. It uses the Mapbox GL JS library for map rendering and data visualization.
+This web app was created by Houtman for a logistics shipping company. It uses the Mapbox GL JS library for map rendering and data visualization.
