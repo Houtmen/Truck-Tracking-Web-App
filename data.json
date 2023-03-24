@@ -1,0 +1,16 @@
+{
+  "trucks": [
+    {
+      "name": "Truck 1",
+      "number": "123",
+      "location": [51.509865, -0.118092],
+      "last_updated": "2022-04-01T13:37:00Z"
+    },
+    {
+      "name": "Truck 2",
+      "number": "456",
+      "location": [51.511482, -0.116894],
+      "last_updated": "2022-04-01T13:40:00Z"
+    }
+  ]
+}
